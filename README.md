@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Khang Tran
 - 🌱 I’m currently learning CS @ UOA
-- 📫 How to reach me: khangminh1472001@gmail.com
+- 📫 How to reach me: khangmt147@gmail.com
