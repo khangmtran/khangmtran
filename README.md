@@ -1,3 +1,4 @@
 - 👋 Hi, I’m Khang Tran
-- 🌱 I’m currently learning CS @ UOA
+- 💼 I’m currently learning CS @ UOA
+- 📆 I'm graduating in December 2024 
 - 📫 How to reach me: khangmt147@gmail.com
